@@ -69,6 +69,26 @@ PersonalHealthAnalyzer/
 └── LICENSE
 
 
+---
+
+## License
+
+This project is licensed under the MIT License. See the [LICENSE](LICENSE) file for details.
+
+---
+
+## Contributing
+
+Pull requests and improvements are welcome. If you would like to add more foods to the database, optimize calculations, or enhance analytics or export features, please open an issue or PR.
+
+---
+
+## Acknowledgments
+
+- Java, MySQL, and open-source projects used.
+- Open data and nutritional references for food macros.
+
+
 
 
 
